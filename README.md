@@ -17,15 +17,14 @@ Currently building out a SOC Automation Framework in my homelab and actively see
   - Automated SOC Alert Triage System — Python tool to automate Wazuh alert classification
 
 ## Certifications 📜
-  -🔐 CompTIA Security+ — Jul 2025
-  -🎓 Google Cybersecurity Certificate — Jun 2024
-  -🏆 TryHackMe — Top 3% | 100+ Rooms Completed
+  - 🔐 CompTIA Security+ — Jul 2025
+  - 🎓 Google Cybersecurity Certificate — Jun 2024
+  - 🏆 TryHackMe — Top 3% | 100+ Rooms Completed
 
 ## Currently 🔭
   - Adding features to my SOC Automation Framework
 
 ## Reach Me 📫  
-  -LinkedIn: www.linkedin.com/in/bruce-hsueh-a11b62103
   -Email: ylhsueh1988@gmail.com
 
 
