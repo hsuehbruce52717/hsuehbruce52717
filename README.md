@@ -13,7 +13,7 @@ Currently building out a SOC Automation Framework in my homelab and actively see
   - 🧰 Additional: SQL, GitHub, VirtualBox, JavaScript, HTML
 
 ## Projects 🚀
-  - [Virtualized Enterprise Security Lab]([https://github.com/hsuehbruce52717/soc-alert-triage](https://github.com/hsuehbruce52717/Virtualized-Enterprise-Security-Lab)) — SOC simulation environment built in VirtualBox
+  - [Virtualized Enterprise Security Lab](https://github.com/hsuehbruce52717/Virtualized-Enterprise-Security-Lab) — SOC simulation environment built in VirtualBox
   - [Automated SOC Alert Triage System](https://github.com/hsuehbruce52717/soc-alert-triage) — Python tool to automate Wazuh alert classification
 
 ## Certifications 📜
