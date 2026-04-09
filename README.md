@@ -4,7 +4,7 @@ I'm an organic chemist with 8 years of GMP-regulated production experience trans
 Currently building out a SOC Automation Framework in my homelab and actively seeking SOC Analyst or Security Analyst roles.
 
 ## Tech Stack 🛠️
-  - 🔍 SIEM & Detection: Wazuh, Splunk, Wireshark, Nessus, Nmap
+  - 🔍 SIEM & Detection: Wazuh, Wireshark, Nmap
   - 🐧 Systems: Kali Linux, Ubuntu, Windows Server
   - 🐍 Scripting: Python, Bash
   - 🌐 Networking: TCP/IP, DNS, VPNs, Firewalls, Active Directory, Network Segmentation
